@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.egg/
+venv/
+env/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
